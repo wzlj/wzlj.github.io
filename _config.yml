@@ -1,10 +1,10 @@
 # Site settings
-title: 深度学习超度指南
-SEOTitle: 王大东 | WDD Blog
-header-img: img/home-big.jpg
-email: 1556905690@qq.com
+title: 菜园子
+SEOTitle: 五子良将 | wzlj Blog
+header-img: img/lotus flower.jpg
+email: 283541896@qq.com
 description: "614B  "
-keyword: "CS, DeepLearning, Machine Learning"
+keyword: "DeepLearning, Machine Learning"
 url: "https://"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     _WDD
-zhihu_username:     王大东
-github_username:    wdd233
-twitter_username:   wdd
+weibo_username:     
+zhihu_username:     御风行
+github_username:    wzlj
+twitter_username:   
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -71,15 +71,15 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: WDD.me
+ga_track_id:            # Format: UA-xxxxxx-xx
+ga_domain: ljc.wiki
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Never Stop Exploring<br>"
-sidebar-avatar: /img/author-wdd.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/lotus flower.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
