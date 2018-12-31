@@ -1,7 +1,7 @@
 # Site settings
-title: WDD
+title: 深度学习超度指南
 SEOTitle: 王大东 | WDD Blog
-header-img: img/home-bg.jpg
+header-img: img/home-big.jpg
 email: 1556905690@qq.com
 description: "614B  "
 keyword: "CS, DeepLearning, Machine Learning"
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     _WDD
+zhihu_username:     王大东
+github_username:    wdd233
+twitter_username:   wdd
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
